@@ -10,4 +10,4 @@ I love Sunny!!! She is the best in the world!
 
 ## From there is the end of test
 
-Let's begin our note!!
+Let's begin our note!

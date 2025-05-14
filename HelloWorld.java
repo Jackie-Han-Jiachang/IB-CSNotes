@@ -4,5 +4,6 @@ public class HelloWorld {
         for(int i = 0; i < 5; i++) {
             System.out.println("This is line " + (i + 1));
         }
+        System.out.println("End of program.");
     }
 }
